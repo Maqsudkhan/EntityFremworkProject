@@ -1,4 +1,4 @@
-﻿namespace EntityFremworkProject.Applications
+﻿namespace EntityFremworkProject
 {
     internal class ApplecationDbContext
     {
